@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  📱 Linguagens: <strong>Atualmente estou focando meus estudos em Swift.</strong>
+  📱 Atualmente estou focando meus estudos em <strong>Swift e Flutter.</strong>
 </p>
 
 <p align="left">
-  🖥️ Ferramentas: <strong>Além de estudar programação, trabalho com Photoshop e Adobe XD.</strong>
+  🖥️  Além de estudar programação, trabalho com <strong>Photoshop e Adobe XD.</strong>
 </p>
 
 <p align="left">
