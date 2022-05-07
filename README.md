@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  📱 Atualmente estou focando meus estudos em <strong>Swift e Flutter.</strong>
+  📱 Atualmente estou focando meus estudos em <strong>Swift.</strong>
 </p>
 
 <p align="left">
