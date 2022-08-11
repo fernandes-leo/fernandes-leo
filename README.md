@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, sou Leonardo Fernandes, sou formado em  <strong>Gestão de Tecnologia da Informação</strong> pela Universidade Anhembi Morumbi.<br>
+  Olá, sou Leonardo Fernandes, formado em  <strong>Gestão de Tecnologia da Informação</strong> pela Universidade Anhembi Morumbi.<br>
 </p>
 
 <p align="left">
